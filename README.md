@@ -1,6 +1,6 @@
 # Automation_for_emails
 
-Into the repository are 7 stricpts : <br>
+Into the repository are 7 scripts : <br>
 1 - send emails <br>
 2 - send emails every day <br>
 3 - send emails to csv file <br>
