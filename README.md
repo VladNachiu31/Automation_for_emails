@@ -1,5 +1,8 @@
 # Automation_for_emails
 
+
+Install the requirements.txt with the command pip install -r requirements.txt in your shell.
+
 Into the repository are 7 scripts : <br>
 1 - send emails <br>
 2 - send emails every day <br>
